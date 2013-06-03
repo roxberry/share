@@ -1,4 +1,3 @@
-cephas
+recro
 ======
-
-Documents / Applications for St. Peter's 
+Definition: To recreate, restore, revive.
