@@ -1,3 +1,6 @@
-recro
+The Share Framework
 ======
-Definition: To recreate, restore, revive.
+
+Goals:
+
+Create an architecture for organizations to quickly configure and deploy cross platform applications.
