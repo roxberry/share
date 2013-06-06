@@ -1,5 +1,6 @@
 The Share Framework
 ======
+An Application Architecture for the Catholic Community
 
 Goals:
 
